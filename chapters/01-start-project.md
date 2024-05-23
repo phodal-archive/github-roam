@@ -31,7 +31,7 @@
 
 如下是不同开源许可证的市场占有率及使用情况。
 
-![License 使用情况](./img/permissive-vs-copylift-license-2.jpg)
+![License 使用情况](../img/permissive-vs-copylift-license-2.jpg)
 
 又比如，在我们看到的一些外版书籍上，如果拥有代码。那么作者一般就会在前言或者类似的位置里，指明书中代码的版权所属。如：
 
@@ -39,7 +39,7 @@
 
 于是，选择一个合理的 LICENSE，就变成了一个有趣的话题。为此，笔者做了一个如何进行开源协议选型的流程图：
 
-[![如何选择 License](./img/licenses.png)](https://github.com/phodal/licenses)
+[![如何选择 License](../img/licenses.png)](https://github.com/phodal/licenses)
 
 简单地来说，这些 License 之间是一些权利的区别，如当你把代码放置到公有领域，就意味着任何人可以修改，并且不需要标明出注；可如果你想要别人标明出处及作者，你就需要 MIT 协议；而你希望别人闭源的话，那么你就需要 MPL 协议等等。
 

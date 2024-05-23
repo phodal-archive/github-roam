@@ -8,7 +8,7 @@ Git 命令行增强
 
 ### [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
-![diff so fancy 截图](./img/git-diff-screenshot.png)
+![diff so fancy 截图](../img/git-diff-screenshot.png)
 
 ### [git-extras](https://github.com/tj/git-extras)
 
@@ -66,11 +66,11 @@ SourceTree 方便用来查看一些非我写的项目，寻找其中的一些问
 
 gitflow 分支合并、查看
 
-![SourceTree 截图](./img/sourcetree.jpg)
+![SourceTree 截图](../img/sourcetree.jpg)
 
 ### GitHub Desktop
 
-![GitHub Desktop](./img/github-desktop.jpg)
+![GitHub Desktop](../img/github-desktop.jpg)
 
 Git 娱乐
 ---
@@ -132,4 +132,4 @@ Set up your git name and email, this is important so that your commits can be id
 
 ### Gource
 
-![Gource 历史](./img/gource.jpg)
+![Gource 历史](../img/gource.jpg)

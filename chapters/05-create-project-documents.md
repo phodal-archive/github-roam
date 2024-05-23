@@ -9,19 +9,19 @@
 
 通常这个会在项目的最上方会有一个项目的简介，如下图所示：
 
-![GitHub Project Introduction](./img/github-intro.png)
+![GitHub Project Introduction](../img/github-intro.png)
 
 ## README
 
 README 通常会显示在 GitHub 项目的下面，如下图所示：
 
-![GitHub README](./img/readme-example.png)
+![GitHub README](../img/readme-example.png)
 
 通常一个好的 README 会让你立马对项目产生兴趣。
 
 如下面的内容是 React 项目的简介：
 
-![React README](./img/react-intro.png)
+![React README](../img/react-intro.png)
 
 下面的内容写清楚了他们的用途：
 

@@ -33,7 +33,7 @@ Vue 不是因为好用，而一下子火了。这一点我印象特别深，当�
 
 除此，还有一种可能是，你的 ID 不够 fancy，即你在社区的影响上比较少。此时，就需要**一点点慢慢积累人气**了。当你积累了一些人气，你就能和松本行弘一样，在创建 mRuby 的时候就有 1000+ 的 Star。并且，在社区上还有一些相关的文章介绍，各个头条也由他的粉丝发了上去。如，一年多以前，我创建了 [mole](https://github.com/phodal/mole) 项目。
 
-![Mole](./img/mole.png)
+![Mole](../img/mole.png)
 
 当时，是为了给自己做一个基于 GitHub 云笔记的工具，在完成度到一定程度的时候。我在我的微信公从号上发了相关的介绍，第二天就有 100+ 的 Star 了，还接收到一些鼓舞的话语。对应于国内则有：
 
@@ -60,7 +60,7 @@ Vue 不是因为好用，而一下子火了。这一点我印象特别深，当�
 
 GitHub 的 Description 是我们在 Hacking News、GitHub Trneding 等等，第一时间看到的介绍。也是我们能快速介绍给别人的东西，如下图所示：
 
-![GitHub Trending](./img/github-trending-example.png)
+![GitHub Trending](../img/github-trending-example.png)
 
 这一句话，必须简单明了也介绍，它是干什么的。
 
@@ -78,7 +78,7 @@ Vue 则是：A progressive, incrementally-adoptable JavaScript framework for bui
 
 > Most machines on internet communicate with each other via TCP/IP. However TCP/IP only guarantees reliable data transmissions, we need to abstract more to build services:
 
-![RPC 开源项目](./img/rpc-example.png)
+![RPC 开源项目](../img/rpc-example.png)
 
 以上便是这个项目能解决的问题，不过这个项目能解决的问题倒是比较长，哈哈哈。
 
@@ -86,7 +86,7 @@ Vue 则是：A progressive, incrementally-adoptable JavaScript framework for bui
 
 当我们有 A、B、C 几个不同的框架的时候，作为一个开发人员，就需要对比他们的特性。如下是 Go 语言实现的 MQTT 示例：
 
-![GO MQTT 示例](./img/go-mqtt.png)
+![GO MQTT 示例](../img/go-mqtt.png)
 
 这个项目只支持的 Qos 级别为 0。如果我们需要的级别是 1，那么就不能用这个项目了。
 
@@ -101,7 +101,7 @@ numbers, objects, strings, etc. Lodash’s modular methods are great for:
 
 你会怎么写？脸皮够厚的话，可以直接写一下，与其它项目的对比，blabla：
 
-![对比其它项目](./img/comparison.png)
+![对比其它项目](../img/comparison.png)
 
 当然了，这种事不能太过，要不然会招来一堆黑。
 
@@ -131,7 +131,7 @@ app.listen(3000);
 
 好在这里的安装工作只有两步，而不是：
 
-![Lan 安装过程](./img/lan-example.png)
+![Lan 安装过程](../img/lan-example.png)
 
 对于那些需要复杂的安装过程的软件，应该简化安装过程，如提供 Docker 镜像，或者直接提供一个可运行的 Demo 环境。以免用户在看完 README 之后，直接放弃了使用该库。
 
@@ -142,7 +142,7 @@ app.listen(3000);
 
 由于，之前在某一个项目，经历过一个第三方 API 文档的大坑——文档中只罗列了 API 的用法。如下 Intellij Idea 生成的结构图：
 
-![API 示例](./img/api-examples.png)
+![API 示例](../img/api-examples.png)
 
 文档中上，罗列了每个函数，以及每个函数需要的参数。我使用 Intellij Idea 直接反编译 jar 包，看到的信息都比文档多多了。文档上，没有任务示例，甚至连怎么初始化这个库的代码都没有。
 
@@ -152,7 +152,7 @@ WTF！
 
 对于一个复杂的开源项目来说，文档上要写明安装、编译、配置等等的过程。如下图所示：
 
-![Python Social Auth 文档](./img/python-social-auth-example.png)
+![Python Social Auth 文档](../img/python-social-auth-example.png)
 
 并且在我们发布包的时候，就要不断地去重复这个过程——如果你使用了自动化测试，那么这个过程便自动完成了。
 
@@ -160,7 +160,7 @@ WTF！
 
 并且，我们可以将文档直接入到代码里。它可以有效地减少文档不同步，带来的一些问题。
 
-![Lodash 示例](./img/lodash-code-example.png)
+![Lodash 示例](../img/lodash-code-example.png)
 
 上图是使用了 JSDoc 的 Lodash 示例。
 
@@ -172,7 +172,7 @@ WTF！
 
 反正，除了一个 hello, world，你还要有各种场景下的示例：
 
-![Redux](./img/redux-examples.png)
+![Redux](../img/redux-examples.png)
 
 没有这么多示例，敢说自己是好用的开源项目？
 
@@ -193,7 +193,7 @@ WTF！
 
 这一点可以在 README，以及介绍上体现：
 
-![Feel free to contribute!](./img/feel-free-to.png)
+![Feel free to contribute!](../img/feel-free-to.png)
 
 哪怕只是一个错误字的 PR，那么你也可以 merge，啊哈哈~。然后，就有人帮你宣传了，『我给 xxx 项目一个 PR 了』。刚毕业的时候，我也是从这种类型的 PR 做起的~~。
 

@@ -10,7 +10,7 @@
 
 最后效果图
 
-![2014 01 01](./img/2014-01-01.png)
+![2014 01 01](../img/2014-01-01.png)
 
 要解析的 JSON 文件位于``data/2014-01-01-0.json``，大小 6.6M，显然我们可能需要用每次只读一行的策略，这足以解释为什么诸如 sublime 打开的时候很慢，而现在我们只需要里面的 JSON 数据中的创建时间。。
 
@@ -138,7 +138,7 @@ draw_date("data/2014-01-01-0.json")
 
 继上篇之后，我们就可以分析用户的每周提交情况，以得出用户的真正的工具效率，每个程序员的工作时间可能是不一样的，如
 
-![Phodal Huang's Report](./img/phodal-results.png)
+![Phodal Huang's Report](../img/phodal-results.png)
 
 这是我的每周情况，显然如果把星期六移到前面的话，随着工作时间的增长，在 GitHub 上的使用在下降，作为一个
 
@@ -150,7 +150,7 @@ draw_date("data/2014-01-01-0.json")
 
 看一张分析后的结果
 
-![Feb Results](./img/feb-results.png)
+![Feb Results](../img/feb-results.png)
 
 结果正好与我的情况相反？似乎图上是这么说的，但是数据上是这样的情况。
 
@@ -446,7 +446,7 @@ pipe.execute()
 
 结果大致如下图所示：
 
-![SMTWTFS](./img/smtwtfs.png)
+![SMTWTFS](../img/smtwtfs.png)
 
 看看主要的事件是？
 
@@ -456,7 +456,7 @@ pipe.execute()
     [[('PushEvent', 154.0), ('CreateEvent', 41.0), ('WatchEvent', 18.0), ('GollumEvent', 8.0), ('MemberEvent', 3.0), ('ForkEvent', 2.0), ('ReleaseEvent', 1.0)]]
     >>>
 
-![Main Event](./img/main-events.png)
+![Main Event](../img/main-events.png)
 
 蓝色的就是 push 事件，黄色的是 create 等等。
 

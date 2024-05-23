@@ -18,11 +18,11 @@
 
 在我阅读的前端库、Python 后台库的过程中，我们都是以造轮子为目的展开的。所以在最开始的时候，我需要一个可以工作，并且拥有我想要的功能的版本。
 
-![it-works-cms.png](./img/it-works-cms.png)
+![it-works-cms.png](../img/it-works-cms.png)
 
 紧接着，我就可以开始去实践这个版本中的一些功能，并理解他们是怎么工作的。再用 `git` 大法展开之前修改的内容，可以使用 IDE 自带的 Diff 工具：
 
-![pycharm-diff.jpg](./img/pycharm-diff.jpg)
+![pycharm-diff.jpg](../img/pycharm-diff.jpg)
 
 或者类似于 `SourceTree` 这样的工具，来查看修改的内容。
 
@@ -33,7 +33,7 @@
 
 我最早阅读的开源软件是 Linux，而下面则是 Linux 的 Release 过程：
 
-![linux-history.png](./img/linux-history.png)
+![linux-history.png](../img/linux-history.png)
 
 表格源自一本书叫《Linux内核0.11(0.95)完全注释》，简单地再介绍一下：
 
@@ -61,25 +61,25 @@
 
 一、先 Clone 它。
 
-![clone-flask.png](./img/clone-flask.png)
+![clone-flask.png](../img/clone-flask.png)
 
 二、从 Release 页面找到它的早期版本：
 
-![flask.png](./img/flask.png)
+![flask.png](../img/flask.png)
 
 三、 从上面拿到它的提交号 `8605cc3`，然后 checkout 到这次提交，查看功能。在这个版本里，一共有六百多行代码
 
-![flask-0.1.png](./img/flask-0.1.png)
+![flask-0.1.png](../img/flask-0.1.png)
 
 还是有点长
 
 四、我们可以找到它的最早版本：
 
-![flask-init.png](./img/flask-init.png)
+![flask-init.png](../img/flask-init.png)
 
 然后查看它的 `flask.py` 文件，只有简单的三百多行，并且还包含一系列注释：
 
-![flask-init.png](./img/flask-init.png)
+![flask-init.png](../img/flask-init.png)
 
 五、接着，再回过头去阅读
 
