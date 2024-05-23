@@ -335,7 +335,7 @@ public class replaceTemp {
 
 选中 ``basePrice`` 很愉快地拿鼠标点上面的重构
 
-![Replace Temp With Query](./img/replace.jpg)
+![Replace Temp With Query](../img/replace.jpg)
 
 便会返回
 

@@ -38,7 +38,7 @@
 
 我的微信公众号：
 
-![作者微信公众号：phodal-weixin](./img/wechat.jpg)
+![作者微信公众号：phodal-weixin](../img/wechat.jpg)
 
 我的 GitHub 主页上写着加入的时间——``Joined on Nov 8, 2010``，那时才大一，在那之后的那么长的日子里我都没有登录过。也许是因为我学的不是计算机，到了今天——``2015.3.9``，我才发现这其实是程序员的社交网站。
 
@@ -68,7 +68,7 @@
 
 当然，后来是审阅完了，书上有我的英文简介。
 
-![Phodal Huang Introduction](./img/phodal-intro.jpg)
+![Phodal Huang Introduction](../img/phodal-intro.jpg)
 
 一个月前，收到 MANNING 出版社的邮件（PS：也是在 GitHub 上），关于 Review 一本[物联网](iot)书籍的目录，并提出建议。
 

@@ -56,11 +56,11 @@ $git status
 
 来看现在的状态，如下图是添加之前的：
 
-![Before add](./img/before-add.png)
+![Before add](../img/before-add.png)
 
 下面是添加之后 的
 
-![After add](./img/after-add.png)
+![After add](../img/after-add.png)
 
 可以看到状态的变化是从黄色到绿色，即 unstage 到 add。
 
@@ -111,11 +111,11 @@ jQuery[^jQuery] 在发布版本``2.1.3``，一共有 152 个 commit。我们可�
 
 接着,我们试试在上面创建一个项目：
 
-![GitHub Roam](./img/github-roam-create.jpg)
+![GitHub Roam](../img/github-roam-create.jpg)
 
 就会有下面的提醒：
 
-![GitHub Roam](./img/project-init.jpg)
+![GitHub Roam](../img/project-init.jpg)
 
 它提供多种方式的创建方法：
 
@@ -208,10 +208,10 @@ CLA 即 Contributor License Agreement，在为一些大的组织、机构提交 
 
 以下是我为 Google 提交的一个 PR
 
-![Google CLA](./img/google-cla.png)
+![Google CLA](../img/google-cla.png)
 
 以及 Eclipse 的一个 PR
 
-![Eclipse CLA](./img/eclipse-cla.png)
+![Eclipse CLA](../img/eclipse-cla.png)
 
 他们都要求我签署 CLA。

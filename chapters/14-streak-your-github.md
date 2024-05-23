@@ -5,7 +5,7 @@ GitHub 连击
 
 我也是蛮拼的，虽然我想的只是在 GitHub 上连击 100~200 天，然而到了今天也算不错。
 
-![Longest Streak](./img/longest-streak.png)
+![Longest Streak](../img/longest-streak.png)
 
 ``在不停地造轮子的过程中，也不停地造车子。``
 
@@ -17,7 +17,7 @@ GitHub 连击
 
 对比了一下 365 天连击的 commit，我发现我在 total 上整整多了近 0.5 倍。
 
-![365 Streak](./img/365-streak.jpg)
+![365 Streak](../img/365-streak.jpg)
 
 同时这似乎也意味着，我每天的 commit 数与之相比多了很多。
 
@@ -43,7 +43,7 @@ GitHub 连击
 
 这也就是为什么那个 repo 有这样的一行：
 
-![Repo Status](./img/repo-status.png)
+![Repo Status](../img/repo-status.png)
 
 做到 98% 的覆盖率也算蛮拼的，当然还有 Code Climate 也达到了 4.0，也有了 112 个 commits。因此也带来了一些提高：
 
@@ -57,7 +57,7 @@ GitHub 连击
 
 有意思的是越到中间的一些时间，commits 的次数上去了，除了一些简单的 pull request，还有一些新的轮子出现了。
 
-![Problem](./img/problem.jpg)
+![Problem](../img/problem.jpg)
 
 这是上一星期的 commits，这也就意味着，在一星期里面，我需要在 8 个 repo 里切换。而现在我又有了一个新的 idea，这时就发现了一堆的问题：
 
@@ -84,7 +84,7 @@ GitHub 连击
 
 今天是我连续泡在 GitHub 上的第200天，也是蛮高兴的，终于到达了：
 
-![GitHub 200 days](./img/github-200-days.png)
+![GitHub 200 days](../img/github-200-days.png)
 
 故事的背影是：去年国庆完后要去印度接受毕业生培训——就是那个神奇的国度。但是在去之前已经在项目待了九个多月，项目上的挑战越来越少，在印度的时间又算是比较多。便给自己设定了一个长期的 goal，即 100~200 天的 longest streak。
 
@@ -128,7 +128,7 @@ GitHub 连击
 
 [Google Maps solr polygon 搜索](http://www.phodal.com/blog/google-map-width-solr-use-polygon-search/)
 
-![Google Maps solr](./img/solr.png)
+![Google Maps solr](../img/solr.png)
 
 代码：[https://github.com/phodal/gmap-solr](https://github.com/phodal/gmap-solr)
 
@@ -145,7 +145,7 @@ GitHub 连击
 - jQuery
 - Gulp
 
-![Skill Tree](./img/skilltree.jpg)
+![Skill Tree](../img/skilltree.jpg)
 
 代码：[https://github.com/phodal/skillock](https://github.com/phodal/skillock)
 
@@ -159,13 +159,13 @@ GitHub 连击
 - Knockout.js
 - Require.js
 
-![Sherlock skill tree](./img/sherlock.png)
+![Sherlock skill tree](../img/sherlock.png)
 
 代码：[https://github.com/phodal/sherlock](https://github.com/phodal/sherlock)
 
 #### Django Ionic ElasticSearch 地图搜索
 
-![Django Elastic Search](./img/elasticsearch_ionit_map.jpg)
+![Django Elastic Search](../img/elasticsearch_ionit_map.jpg)
 
 - ElasticSearch
 - Django
@@ -176,7 +176,7 @@ GitHub 连击
 
 #### 简历生成器
 
-![Resume](./img/resume.png)
+![Resume](../img/resume.png)
 
 - React
 - jsPDF
@@ -189,7 +189,7 @@ GitHub 连击
 
 #### Nginx 大数据学习
 
-![Nginx Pig](./img/nginx_pig.jpg)
+![Nginx Pig](../img/nginx_pig.jpg)
 
 - ElasticSearch
 - Hadoop
@@ -224,7 +224,7 @@ GitHub 连击
   
 > 给你一年的时间，你会怎样去提高你的水平？？？
 
-![GitHub 365](./img/github-365.jpg)
+![GitHub 365](../img/github-365.jpg)
 
 正值这难得的 sick leave（万恶的空气），码文一篇来记念一个过去的 366 天里。尽管想的是在今年里写一个可持续的开源框架，但是到底这依赖于一个好的 idea。在我的 [GitHub 孵化器](http://github.com/phodal/ideas) 页面上似乎也没有一个特别让我满意的想法，虽然上面有各种不样有意思的 ideas。多数都是在过去的一年是完成的，然而有一些也是还没有做到的。
 
@@ -256,9 +256,9 @@ GitHub 连击
 
 在我写 [EchoesWorks](https://github.com/echoesworks/echoesworks) 和 [Lan](https://github.com/phodal/lan) 的过程中，我尽量去保证足够高的测试覆盖率。
 
-![lan](./img/lan.png)
+![lan](../img/lan.png)
 
-![EchoesWorks](./img/echoesworks.png)
+![EchoesWorks](../img/echoesworks.png)
 
 从测试开始的 TDD，会保证方法是可测的。从功能到测试则可以提供工作次效率，但是只会让测试成为测试，而不是代码的一部分。
 
@@ -295,7 +295,7 @@ GitHub 连击
 
 我在写 [lan](https://github.com/phodal/lan) 的时候，也是类似的，但是不同的是我已经设计了一个清晰的架构图。
 
-![Lan IoT](./img/lan-iot.jpg)
+![Lan IoT](../img/lan-iot.jpg)
 
 而在我们实现的编码过程也是如此，使用不同的框架，并且让他们能工作。如早期玩的 [moqi.mobi](https://github.com/echoesworks/moqi.mobi)，基于 Backbone、RequireJS、Underscore、Mustache、Pure CSS。在随后的时间里，用 React 替换了 View 层，就有了 [backbone-react](https://github.com/phodal/backbone-react) 的练习。
 
@@ -341,7 +341,7 @@ GitHub 连击
 
 当然如果你连做梦也在写代码的话，那么我想 500 天就够了，哈哈~~。
 
-![Gtihub 500](./img/github-500.jpg)
+![Gtihub 500](../img/github-500.jpg)
 
 虽然不是连击次数最多的，但是根据 [Most active GitHub users ](http://git.io/top) 的结果来说，好似是大陆提交数最多的人，没有之一。再考虑到提交都是有意义的——不是机器刷出来的，不是有意识的去刷，我觉得还是有很大成就感的。
 
@@ -357,7 +357,7 @@ GitHub 连击
 
 如下图所示的就是情绪周期：
 
-![情绪周期](./img/qingxu.jpg)
+![情绪周期](../img/qingxu.jpg)
 
 简单地来说，就是**有一个时间段写代码的感觉超级爽，有一个时间段不想写代码**，但是如果换一个说法就是：**有一个时间段看书、写文档的感觉很爽，有一时间段不想看书、写文档的感觉**。这也就是为什么在我的GitHub首页上的绿色各种花。不过因为《物联网周报》的原因，我会定期地更新一个相关的开源项目。
 
@@ -376,7 +376,7 @@ GitHub 连击
 
 在一些日子的练习后，我发现这还是太无聊了。天生就喜欢一些有意思的东西，有趣才更有激情吧~~。不过，像下图的打字练习还是挺有意思的：
 
-![打字练习](./img/huovd.png)
+![打字练习](../img/huovd.png)
 
 还是能打出了一堆错误的字符。但是对比了一下大多数人的人，还算不错，至少是盲打。但是，还是存在着很大的提升空间。
 
@@ -412,7 +412,7 @@ THE ONLY FAIR IS NOT FAIR . ENJOY CREATE & SHARE.
 
 而这些并不是一种容易的事，很多时候有一些模式，我们都很难有一个好的实践。只是这些东西都不是一些可以生搬硬套的，我们更需要的是知道有这些东西的存在，以便于在某一天，我们可以从我们的仓库里将这些知识取出来。
 
-![10000 hours](./img/10000.png)
+![10000 hours](../img/10000.png)
 
 我们的刻意练习加上我们的持之以恒总是会取得长足的进步。不过在我们练习之前，你需要有一个目标。这个目标可以是一个 Idea、一个设计模式、一个模仿等等，这些内容都可以以 Issue 的好好管理着。
 
@@ -425,7 +425,7 @@ THE ONLY FAIR IS NOT FAIR . ENJOY CREATE & SHARE.
 
 通常在这种情况下，我们知道自己不知道什么东西，当我们处于不知道自己不知道、不知道自己知道时，那我们就需要网上的各种技能图谱——如StuQ的技能图谱。
 
-![skilmap](./img/skillmap.png)
+![skilmap](../img/skillmap.png)
 
 然后了解图谱上的一个个的内容，尽可能依照此构建自己的体系——以让自己走向知道自己不知道的地步，然后我们才依此来展开练习。
 
@@ -437,7 +437,7 @@ THE ONLY FAIR IS NOT FAIR . ENJOY CREATE & SHARE.
 
 时间：2014.10.08-2014.12.30
 
-![2014.png](./img/2014.png)
+![2014.png](../img/2014.png)
 
 在这一段时间里，我创建的项目大部分都是一些物联网项目：
 
@@ -458,7 +458,7 @@ OnMap 项目是为了让我用 Nokia Lumia 920 拍照的照片，可以在地图
 
 #### 2015年
 
-![2015.png](./img/2015.png)
+![2015.png](../img/2015.png)
 
 整个区间就是刷各种前端的技术栈，创建了各种有意思的项目：
 
@@ -478,7 +478,7 @@ OnMap 项目是为了让我用 Nokia Lumia 920 拍照的照片，可以在地图
 
 #### 2016 年
 
-![2016.png](./img/2016.png)
+![2016.png](../img/2016.png)
 
 我们有了 Growth 系列的电子书、App，还有 Mole，几个极具代表性的项目就够了。
 
