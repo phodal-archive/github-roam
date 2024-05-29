@@ -18,4 +18,4 @@
 - [16 find in github](/16-find-in-github.md)
 - [18 get star](/18-get-star.md)
 - [19 joke](/19-joke.md)
-- [999 faq](/999-faq.md)
+- [999 FAQ](/999-faq.md)
