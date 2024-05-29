@@ -33,7 +33,10 @@
     <script>
         window.$docsify = {
             basePath: '/chapters/',
-            loadSidebar: true
+            loadSidebar: true,
+            alias: {
+              '/.*/_sidebar.md': '/chapters/sidebar.md'
+            }
         };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
